@@ -1,6 +1,10 @@
+### 🌍 Languages | Idiomas | Langues
+
+[🇪🇸 Español](./README.md) | [🇬🇧 English (current)](./README.en.md) | [🇫🇷 Français](./README.fr.md)
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif
-" align="center" height="200" width="" />
+    <img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif
+    " align="center" height="200" width="" />
 </div>  
 
 ## 👋 ¡Hola! Soy Santiago Avellaneda
@@ -34,8 +38,6 @@ Soy un desarrollador de software en formación 🎓, apasionado por la inteligen
 ![My Backend Skills](https://skillicons.dev/icons?i=aws,azure,docker,githubactions,heroku,supabase,vercel)
 #### AI
 ![My Backend Skills](https://skillicons.dev/icons?i=py)
-#### Other tools
-![My Backend Skills](https://skillicons.dev/icons?i=bash,discord,git,github,idea,clion,npm,pnpm,postman,pycharm,vscode)
 
 
 <br/>  
@@ -67,5 +69,29 @@ Soy un desarrollador de software en formación 🎓, apasionado por la inteligen
 
   
 <br/>  
+
+
+
+
+<details open>
+  <summary>🇪🇸 Español</summary>
+
+<!-- Aquí va TODO tu README en español (el que compartiste) -->
+... (README en español completo)
+</details>
+
+<details>
+  <summary>🇬🇧 English</summary>
+
+<!-- Aquí va TODO tu README traducido al inglés -->
+... (README en inglés completo)
+</details>
+
+<details>
+  <summary>🇫🇷 Français</summary>
+
+<!-- Aquí va TODO tu README traducido al francés -->
+... (README en francés completo)
+</details>
 
 
