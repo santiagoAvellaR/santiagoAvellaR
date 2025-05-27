@@ -67,31 +67,3 @@ Soy un desarrollador de software en formación 🎓, apasionado por la inteligen
 </div>
 
 
-  
-<br/>  
-
-
-
-
-<details open>
-  <summary>🇪🇸 Español</summary>
-
-<!-- Aquí va TODO tu README en español (el que compartiste) -->
-... (README en español completo)
-</details>
-
-<details>
-  <summary>🇬🇧 English</summary>
-
-<!-- Aquí va TODO tu README traducido al inglés -->
-... (README en inglés completo)
-</details>
-
-<details>
-  <summary>🇫🇷 Français</summary>
-
-<!-- Aquí va TODO tu README traducido al francés -->
-... (README en francés completo)
-</details>
-
-
