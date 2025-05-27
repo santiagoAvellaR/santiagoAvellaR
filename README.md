@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif
+" align="center" height="200" width="" />
+</div>  
 
-<!--
-**santiagoAvellaR/santiagoAvellaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 ¡Hola! Soy Santiago Avellaneda
 
-Here are some ideas to get you started:
+Soy un desarrollador de software en formación 🎓, apasionado por la inteligencia artificial, el desarrollo de software y la creación de soluciones tecnológicas que marquen la diferencia 🚀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Actualmente estoy trabajando en:
+
+- 🔧 Adentrándome en el mundo de **Node.js** para el desarrollo backend y **React** para el frontend
+- 🧠 Explorando el fascinante mundo de la **inteligencia artificial**
+- ☁️ Aprendiendo sobre **arquitectura de software** y tecnologías de **computación en la nube**
+
+### 🔨 Proyectos recientes:
+
+- 🔧 Bad Eci Cream:
+    - Front: React + Remix + TypeScript
+    - Back: Fastify + TypeScript
+    - Data Bases: Redis + Supabase (Postgres)
+    - Architecture: Azure (Service Bus, Azure Functions, Load Balancer, CosmosDB, BlobStorage)
+
+<br/>  
+
+### 🚀 Tecnologías y herramientas
+#### Backend
+![My Backend Skills](https://skillicons.dev/icons?i=express,graphql,hibernate,java,maven,gradle,nodejs,spring,ts)
+#### Frontend
+![My Backend Skills](https://skillicons.dev/icons?i=react,html,css,nextjs,figma,remix,tailwind,ts,vite,vitest)
+#### Bases de Datos
+![My Backend Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite)
+#### Cloud & DevOps
+![My Backend Skills](https://skillicons.dev/icons?i=aws,azure,docker,githubactions,heroku,supabase,vercel)
+#### AI
+![My Backend Skills](https://skillicons.dev/icons?i=py)
+#### Other tools
+![My Backend Skills](https://skillicons.dev/icons?i=bash,discord,git,github,idea,clion,npm,pnpm,postman,pycharm,vscode)
+
+
+<br/>  
+
+
+## Github Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santiagoAvellaR&show_icons=true&theme=dark" width="46.4%" />
+  <img src="https://streak-stats.demolab.com?user=santiagoAvellaR&theme=dark" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoAvellaR&layout=compact&theme=dark" width="40%" />
+</div>
+
+<br/>  
+
+<br/>  
+
+### 📫 ¿Hablamos?
+<div align="center">
+<a href="https://github.com/santiagoAvellar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/santiago-avellaneda-rodriguez" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+
+  
+<br/>  
+
+
