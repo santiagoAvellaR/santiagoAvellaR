@@ -1,62 +1,153 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" align="center" height="200" width="" />
-</div>  
 
-## 👋 Salut ! Je suis Santiago Avellaneda
+# Salut, je suis Santiago Avellaneda 👋
 
-Je suis un développeur logiciel en formation 🎓, passionné par l'intelligence artificielle, le développement logiciel et la création de solutions technologiques à fort impact 🚀.
+### Étudiant ingénieur en informatique à l’UTC  
+### Intelligence Artificielle · Machine Learning · Génie logiciel
 
-### 🚀 Actuellement, je travaille sur :
+Je recherche un stage en tant qu’**AI Engineer** ou **Machine Learning Engineer**.
 
-- 🔧 Je me plonge dans **Node.js** pour le développement backend et **React** pour le frontend  
-- 🧠 J'explore le monde fascinant de l'**intelligence artificielle**  
-- ☁️ J'apprends l'**architecture logicielle** et les technologies de **cloud computing**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Avellaneda-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-avellaneda-rodriguez)
+[![GitHub](https://img.shields.io/badge/GitHub-santiagoAvellaR-181717?style=flat&logo=github&logoColor=white)](https://github.com/santiagoAvellaR)
 
-### 🔨 Projets récents :
-
-- 🔧 Bad Eci Cream :
-    - Frontend : React + Remix + TypeScript  
-    - Backend : Fastify + TypeScript  
-    - Bases de données : Redis + Supabase (Postgres)  
-    - Architecture : Azure (Service Bus, Azure Functions, Load Balancer, CosmosDB, BlobStorage)
-
-<br/>  
-
-### 🚀 Technologies & Outils  
-#### Backend  
-![Compétences Backend](https://skillicons.dev/icons?i=express,graphql,hibernate,java,maven,gradle,nodejs,spring,ts)  
-#### Frontend  
-![Compétences Frontend](https://skillicons.dev/icons?i=react,html,css,nextjs,figma,remix,tailwind,ts,vite,vitest)  
-#### Bases de données  
-![Compétences Bases de données](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite)  
-#### Cloud & DevOps  
-![Compétences Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,docker,githubactions,heroku,supabase,vercel)  
-#### IA  
-![Compétences IA](https://skillicons.dev/icons?i=py)  
-
-<br/>  
-
-## Statistiques GitHub  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santiagoAvellaR&show_icons=true&theme=dark" width="46.4%" />
-  <img src="https://streak-stats.demolab.com?user=santiagoAvellaR&theme=dark" />
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoAvellaR&layout=compact&theme=dark" width="40%" />
 </div>
 
-<br/>  
+---
 
-<br/>  
+## À propos de moi
 
-### 📫 On reste en contact ?
-<div align="center">
-<a href="https://github.com/santiagoAvellar" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/santiago-avellaneda-rodriguez" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>  
-</div>
+Je suis étudiant en génie informatique à l’**Université de Technologie de Compiègne (UTC)**, avec une spécialisation en **Intelligence Artificielle et Science des Données**, tout en terminant mes études d’Ingénierie des Systèmes à l’Escuela Colombiana de Ingeniería Julio Garavito.
 
-<br/>
+Au cours de la dernière année, j’ai principalement orienté mes travaux académiques vers le **machine learning**, l’**intelligence artificielle** et l’**analyse de données**.
+
+Cette spécialisation s’appuie sur une solide base en génie logiciel, notamment en Python, Java, Spring Boot, développement d’API REST, bases de données SQL et NoSQL, programmation orientée objet et architecture logicielle.
+
+Je m’intéresse particulièrement aux projets qui combinent machine learning et développement logiciel :
+
+- préparation, exploration et analyse de données ;
+- entraînement et comparaison de modèles ;
+- validation et évaluation des performances ;
+- intégration de composants d’intelligence artificielle dans des applications logicielles ;
+- développement de solutions maintenables et correctement documentées.
+
+---
+
+## Domaines d’intérêt
+
+- Machine Learning
+- Deep Learning
+- Intelligence artificielle appliquée
+- Analyse de données
+- Systèmes logiciels intelligents
+- Intégration de modèles dans des applications
+
+---
+
+## Compétences techniques
+
+### Intelligence Artificielle et Machine Learning
+
+- Python
+- Préparation et analyse de données
+- Apprentissage supervisé et non supervisé
+- Classification et régression
+- Sélection et évaluation de modèles
+- Validation croisée
+- Analyse des performances et des limites des modèles
+
+<!-- Ajouter uniquement les bibliothèques réellement utilisées :
+NumPy · pandas · scikit-learn · Matplotlib · PyTorch · TensorFlow
+-->
+
+### Génie logiciel
+
+![Software Engineering](https://skillicons.dev/icons?i=python,java,spring,nodejs,ts,git,github)
+
+- Programmation orientée objet
+- Principes SOLID et patrons de conception
+- Développement backend
+- API REST
+- Tests et qualité du code
+- Architecture logicielle
+
+### Bases de données
+
+![Bases de données](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite)
+
+### Technologies complémentaires
+
+![Outils](https://skillicons.dev/icons?i=docker,aws,azure,githubactions,linux)
+
+---
+
+## Projets sélectionnés
+
+### 🧠 [Nom du projet Machine Learning]
+
+Développement d’une solution de machine learning pour **[problème traité]**.
+
+- Préparation et exploration des données
+- Entraînement de plusieurs modèles
+- Comparaison avec des métriques adaptées
+- Validation des résultats et analyse des limites
+- Technologies : Python, [bibliothèques utilisées]
+
+[Voir le projet](LIEN_DU_REPOSITORY)
+
+---
+
+### 🤖 [Nom du projet Intelligence Artificielle]
+
+Conception d’un système permettant de **[objectif du projet]**.
+
+- [Contribution principale]
+- [Modèle ou méthode utilisée]
+- [Résultat vérifié]
+- [Limites ou améliorations possibles]
+- Technologies : [technologies utilisées]
+
+[Voir le projet](LIEN_DU_REPOSITORY)
+
+---
+
+### 💻 Bad Eci Cream
+
+Projet logiciel distribué développé avec une architecture frontend, backend et cloud.
+
+- Frontend : React, Remix et TypeScript
+- Backend : Fastify et TypeScript
+- Données : Redis, Supabase et PostgreSQL
+- Architecture : Azure Service Bus, Azure Functions, Cosmos DB et Blob Storage
+
+[Voir le projet](LIEN_DU_REPOSITORY)
+
+---
+
+## Formation
+
+### Université de Technologie de Compiègne — UTC
+
+**Génie Informatique**  
+Filière **Intelligence Artificielle et Science des Données**  
+2025 – 2027
+
+### Escuela Colombiana de Ingeniería Julio Garavito
+
+**Ingénierie des Systèmes**  
+2022 – [année de fin réelle]
+
+---
+
+## Langues
+
+- Espagnol : langue maternelle
+- Français : niveau professionnel
+- Anglais : niveau professionnel
+
+---
+
+## Me contacter
+
+- LinkedIn : [Santiago Avellaneda Rodríguez](https://www.linkedin.com/in/santiago-avellaneda-rodriguez)
+- GitHub : [santiagoAvellaR](https://github.com/santiagoAvellaR)
+- Email : `santiagoavellar02@gmail.com`
