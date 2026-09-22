@@ -8,7 +8,8 @@ IA appliquée · Machine Learning · Computer Vision · Génie logiciel
 [English](./README.md) · [Español](./README.es.md) · [Français](./README.fr.md)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Avellaneda-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-avellaneda-rodriguez)
-[![Email](https://img.shields.io/badge/Email-santiagoavellar02%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:santiagoavellar02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-santiagoavellar03%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:santiagoavellar03@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B33_7_46_38_84_34-2E7D32?style=flat&logo=whatsapp&logoColor=white)](tel:+33746388434)
 
 </div>
 
@@ -58,4 +59,4 @@ Espagnol — langue maternelle · Français — B2 · Anglais — B2 · Portugai
 
 Toujours partant pour échanger autour de l'IA, du génie logiciel, de projets techniques ou d'opportunités de stage.
 
-[LinkedIn](https://www.linkedin.com/in/santiago-avellaneda-rodriguez) · [Email](mailto:santiagoavellar02@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/santiago-avellaneda-rodriguez) · [Email](mailto:santiagoavellar03@gmail.com) · [Téléphone](tel:+33746388434)

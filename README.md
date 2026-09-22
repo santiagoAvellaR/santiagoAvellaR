@@ -8,7 +8,8 @@ Applied AI · Machine Learning · Computer Vision · Software Engineering
 [English](./README.md) · [Español](./README.es.md) · [Français](./README.fr.md)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Avellaneda-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-avellaneda-rodriguez)
-[![Email](https://img.shields.io/badge/Email-santiagoavellar02%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:santiagoavellar02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-santiagoavellar03%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:santiagoavellar03@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B33_7_46_38_84_34-2E7D32?style=flat&logo=whatsapp&logoColor=white)](tel:+33746388434)
 
 </div>
 
@@ -58,4 +59,4 @@ Spanish — Native · French — B2 · English — B2 · Portuguese — A2
 
 I'm always happy to talk about AI, software engineering, projects, or internship opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/santiago-avellaneda-rodriguez) · [Email](mailto:santiagoavellar02@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/santiago-avellaneda-rodriguez) · [Email](mailto:santiagoavellar03@gmail.com) · [Phone](tel:+33746388434)
